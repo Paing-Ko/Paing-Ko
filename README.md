@@ -8,7 +8,7 @@ I've always been passionate about problem-solving and creation, sparked by my un
 
 Starting from May 2023, I've actively participated in FAC meetups, pushing my boundaries and experiencing the joy of building real projects. I've found my sense of belonging in the coding community, something I couldn't find in medicine.
 
-## 😄 Pronouns: ...
+## Pronouns:
 - he/him
 
 ## 💼 Skills
@@ -26,7 +26,7 @@ Starting from May 2023, I've actively participated in FAC meetups, pushing my bo
 - 🚗 I have an obsession with car registration plates.
 - 🏃‍♂️ Running enthusiast (Completed two half marathons, a 10k run, and a fun 5k run).
 - 🏔️ Avid hiker and part of the Universities Of Medicine Myanmar Hiking and Mountaineering Team (Successfully summited five 10,000+ft mountains in Myanmar).
-- 🚴‍♂️ Love cycling, even taught my wife to ride a bicycle in 2022.
+- 🚴‍♂️ Love cycling, even taught my wife how to ride a bicycle in 2022.
 - 🧘‍♂️ Yoga (Completed 100+ hours of training), 🏸 Badminton (Intermediate), and 🏊‍♀️ Swimming.
 - ⚽️ A die-hard Liverpool FC fan since 1998.
 - 💻 Built my website using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
