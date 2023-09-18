@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Paing(π)
+# Hi there 👋, I'm Paing Phyo Ko (He/Him)
+
+**Preferred Nicknames:** Paing, Pi, π, 3.14  
+**How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
+
 
 ## 🚀 About Me 
 
@@ -8,8 +12,6 @@ I've always been passionate about problem-solving and creation, sparked by my un
 
 By actively participating in FAC meetups from May 2023, I have embraced the thrill of building real projects and found my tribe in the coding community. My recent achievement is making it to the FAC29 cohort, selected as one of the 12 individuals for a 12-week training starting September 2023. By December, I'll have the opportunity to step into the world as a full-time developer!
 
-## Pronouns:
-- he/him
 
 ## 💼 Skills
 
@@ -29,7 +31,7 @@ By actively participating in FAC meetups from May 2023, I have embraced the thri
 - 🚴‍♂️ Love cycling, even taught my wife how to ride a bicycle in 2022.
 - 🧘‍♂️ Yoga (Completed 100+ hours of training), 🏸 Badminton (Intermediate), and 🏊‍♀️ Swimming.
 - ⚽️ A die-hard Liverpool FC fan since 1998.
-- 💻 Built my website using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
+- 💻 Built my portfolio website & game for FAC projects using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
 
 ## 🎯 Currently Learning
 
