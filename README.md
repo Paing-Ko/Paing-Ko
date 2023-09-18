@@ -13,7 +13,6 @@ I've always been passionate about problem-solving and creation, sparked by my un
 
 By actively participating in FAC meetups from May 2023, I have embraced the thrill of building real projects and found my tribe in the coding community. My recent achievement is making it to the FAC29 cohort, selected as one of the 12 individuals for a 12-week training starting September 2023. By December, I'll have the opportunity to step into the world as a full-time developer!
 
-![andy](https://github.com/Paing-Ko/Paing-Ko/assets/75099079/6f320a3b-9344-492a-84ed-416a87aa14ea)
 
 ## 💼 Skills
 
