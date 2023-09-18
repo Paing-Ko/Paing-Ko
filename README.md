@@ -4,6 +4,7 @@
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
 
 
+
 ## 🚀 About Me 
 
 Originally from a small town called Ahtaung(အထောင်) in Myanmar (Burma). Having graduated from med school in 2012, I practiced medicine for five years before moving to the UK to join my wife who works as a medical doctor for the NHS.
@@ -12,6 +13,7 @@ I've always been passionate about problem-solving and creation, sparked by my un
 
 By actively participating in FAC meetups from May 2023, I have embraced the thrill of building real projects and found my tribe in the coding community. My recent achievement is making it to the FAC29 cohort, selected as one of the 12 individuals for a 12-week training starting September 2023. By December, I'll have the opportunity to step into the world as a full-time developer!
 
+![andy](https://github.com/Paing-Ko/Paing-Ko/assets/75099079/6f320a3b-9344-492a-84ed-416a87aa14ea)
 
 ## 💼 Skills
 
@@ -32,6 +34,13 @@ By actively participating in FAC meetups from May 2023, I have embraced the thri
 - 🧘‍♂️ Yoga (Completed 100+ hours of training), 🏸 Badminton (Intermediate), and 🏊‍♀️ Swimming.
 - ⚽️ A die-hard Liverpool FC fan since 1998.
 - 💻 Built my portfolio website & game for FAC projects using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
+
+
+![lucky1](https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0)
+
+![collage](https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b)
+
+
 
 ## 🎯 Currently Learning
 
