@@ -2,23 +2,23 @@
 
 ## 🚀 About Me 
 
-I'm a Myanmar (Burma) native, hailing from a small town called Ahtaung(အထောင်). Having graduated from med school in 2012, I practiced medicine for five years before moving to the UK to join my wife who works as a Specialist Registrar for the NHS.
+Originally from a small town called Ahtaung(အထောင်) in Myanmar (Burma). Having graduated from med school in 2012, I practiced medicine for five years before moving to the UK to join my wife who works as a medical doctor for the NHS.
 
 I've always been passionate about problem-solving and creation, sparked by my uncle, an architect engineer. It's this passion that led me to the world of programming. After hitting several roadblocks in the initial phase of my self-learning journey, I discovered Founders and Coders (FAC), a UK government-funded bootcamp.
 
-Starting from May 2023, I've actively participated in FAC meetups, pushing my boundaries and experiencing the joy of building real projects. I've found my sense of belonging in the coding community, something I couldn't find in medicine.
+By actively participating in FAC meetups from May 2023, I have embraced the thrill of building real projects and found my tribe in the coding community. My recent achievement is making it to the FAC29 cohort, selected as one of the 12 individuals for a 12-week training starting September 2023. By December, I'll have the opportunity to step into the world as a full-time developer!
 
 ## Pronouns:
 - he/him
 
 ## 💼 Skills
 
-- JavaScript
+- CS50
 - HTML
 - CSS
-- Codewars - 6 kyu
+- JavaScript
 - Game development
-- CS50
+- Codewars - 6 kyu
 
 ## 🎉 Fun Facts 
 
@@ -31,22 +31,25 @@ Starting from May 2023, I've actively participated in FAC meetups, pushing my bo
 - ⚽️ A die-hard Liverpool FC fan since 1998.
 - 💻 Built my website using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
 
-## 🎯 What I'm Learning
+## 🎯 Currently Learning
 
-- Deepening my JavaScript knowledge.
-- Expanding my programming skills beyond JavaScript, HTML, and CSS.
-- Building larger, more complex projects.
-- Preparing for potential apprenticeship and full-time employment opportunities.
+- Deepening my grasp on JavaScript.
+- Expanding my horizon beyond JavaScript, HTML, and CSS.
+- Engaging in larger, intricate projects.
+- Gearing up for apprenticeship opportunities and a full-time developer role post-FAC.
 
-## 🔭 I’m currently working on ...
-- Building a personal project about myself and a game for FAC(Founders and Coders) application.
 
-## 📞 Contact Me
+## 🔭 Current Projects 
+- Crafting a personal project about my journey.
 
-If you're interested in chatting about programming, running, cycling, hiking, or even coffee, feel free to reach out!
 
-## 📫 How to reach me:
+## 📞 Let's Connect!
+
+Whether it's coding, running, cycling, hiking, or a simple coffee chat, I'm all ears!
+
+
+## 📫 Reach Out:
 - Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
 - Email: paingphyoko.keke@gmail.com
 
-_I'm ready to explore the world of programming! 🚀_
+_Ready to embark on new programming adventures! 🚀_
