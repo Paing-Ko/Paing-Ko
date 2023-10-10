@@ -16,12 +16,12 @@ By actively participating in FAC meetups from May 2023, I have embraced the thri
 
 ## 💼 Skills
 
-- CS50
+- CS50x, CS50P, CS50T
+- Python
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-- Game development
-- Codewars - 6 kyu
+- SQL
 
 ## 🎉 Fun Facts 
 
