@@ -8,8 +8,9 @@
 - See the reason on [myWebsite](https://paing-ko.github.io/myWebsite/).
 - I have completed Harvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python), & [CS50T](https://pll.harvard.edu/course/cs50s-understanding-technology-0) courses, check out on my [YouTube](https://www.youtube.com/@paingpko).
 
+<div align='center'>
 ## 🚀 About Me:
-
+</div>
 - 🌱 I’m currently trained as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/) a UK government-funded bootcamp who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
   
 - 🏡 Originally from a small town called Ahtaung(အထောင်) in Myanmar (Burma).
@@ -21,7 +22,7 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 
 - 👨🏻‍💻 I am highly collaborative and familiar with Agile practices. The projects listed below demonstrate some of the technical areas I have covered so far...
 
-## Some recent projects:
+##🌐 Some recent projects:
 
 - 💎 : [](https://github.com/fac27/AI-Kan)
 
@@ -56,7 +57,9 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 ![](https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
+<div align='center'>
 ## 🎉 Fun Facts 
+</div>
 
 - ☕ I love coffee, trees, sports, technology, movies (Big fan of The Big Bang Theory), and I have an eye for detail.
 - 🚗 I have an obsession with car registration plates.
@@ -72,6 +75,7 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 <img width="375" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
 
 
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
+## 📫 Connect with me on:
 - Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
+- [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
 - [Email](mailto:paingphyoko.keke@gmail.com)
