@@ -1,11 +1,13 @@
-<h1 align="center">Hi there 👋</h1>
-<h2 align="center">My name is Paing Phyo Ko 🚀 (He/Him).</h2>
-
+<div align="center"> 
+<h1>Hi there 👋, My name is Paing Phyo Ko 🚀 (He/Him).</h1>
+  
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
 **Preferred Nicknames: Paing, Pi, π, 3.14** 
-  
+</div>
+<br>
 
-<h2  align='center'>📚💻Languages & Tools🛠️: </h2>
+<h2  align="center"> 📚💻 Languages & Tools🛠️: </h2>
+
 <table align="center"><tr>
   <td valign="top" width="45%">
      <div align="center">
@@ -30,18 +32,27 @@
   </tr>
 </table>
 
-## 👨🏻‍💻 About Me:
+<br>
+
+<div align='center'>
+<h2> 🏆 GitHub Trophies </h2>
+
+<img width="1000" src="https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=5">
+</div>
+
+
+<h2  align="center"> 👨🏻‍💻 About Me: </h2>
 
 - 🌱 I’m currently trained as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/), a UK government-funded bootcamp who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
   
-- 🏡 Originally from a small town called Ahtaung(အထောင်) in Myanmar (Burma).
+- 🏡 Originally from a small town called Ahtaung(အထောင်), Myanmar (Burma).
 
 - 🎓 Having graduated from med school in 2012, I practiced medicine for five years before moving to the UK to join my wife who works as a medical doctor for the NHS.
 
 - I've always been passionate about problem-solving and creation, sparked by my uncle, an architect engineer. It's this passion that led me to the world of programming.  I started to code out of curiosity during pandemic.
 After hitting several roadblocks in the initial phase of my self-learning journey, I discovered FAC in 2023.
 
-### 🐳 Why career change?
+## 🐳 Why career change?
 - See the reason on [myWebsite](https://paing-ko.github.io/myWebsite/).
 - I have completed Harvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python), & [CS50T](https://pll.harvard.edu/course/cs50s-understanding-technology-0) courses, check out on my [YouTube](https://www.youtube.com/@paingpko).
 
@@ -61,12 +72,6 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 
 - 🐱📘 All of my other projects are available on my [github](https://github.com/Paing-Ko?tab=repositories).
 
-
-<div align='center'>
-<h2> 🏆 GitHub Trophies </h2>
-
-![](https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-</div>
 
 <div align='center'>
 <h2> 🎉 Fun Facts </h2>
