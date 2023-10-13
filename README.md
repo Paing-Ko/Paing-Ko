@@ -1,18 +1,47 @@
-# Hi there 👋, I'm Paing Phyo Ko (He/Him)
-
+<br>
+<h1 align="center">Hi there 👋</h1>
+<br>
+<h2 align="center">My name is Paing Phyo Ko (He/Him) and I am a Software Developer.</h2>
+<br>
 **Preferred Nicknames:** Paing, Pi, π, 3.14  
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
 
 
 
-## 🚀 About Me 
+## 🚀 About Me:
 
-Originally from a small town called Ahtaung(အထောင်) in Myanmar (Burma). Having graduated from med school in 2012, I practiced medicine for five years before moving to the UK to join my wife who works as a medical doctor for the NHS.
+- 🌱 I’m currently trained as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/) a UK government-funded bootcamp who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
+  
+- 🏡 Originally from a small town called Ahtaung(အထောင်) in Myanmar (Burma).
 
-I've always been passionate about problem-solving and creation, sparked by my uncle, an architect engineer. It's this passion that led me to the world of programming. After hitting several roadblocks in the initial phase of my self-learning journey, I discovered Founders and Coders (FAC), a UK government-funded bootcamp.
+- 🎓 Having graduated from med school in 2012, I practiced medicine for five years before moving to the UK to join my wife who works as a medical doctor for the NHS.
 
-By actively participating in FAC meetups from May 2023, I have embraced the thrill of building real projects and found my tribe in the coding community. My recent achievement is making it to the FAC29 cohort, selected as one of the 12 individuals for a 12-week training starting September 2023. By December, I'll have the opportunity to step into the world as a full-time developer!
+- I've always been passionate about problem-solving and creation, sparked by my uncle, an architect engineer. It's this passion that led me to the world of programming.  I started to code out of curiosity during pandemic.
+After hitting several roadblocks in the initial phase of my self-learning journey, I discovered FAC in 2023.
 
+- 👨🏻‍💻 I am highly collaborative and familiar with Agile practices. The projects listed below demonstrate some of the technical areas I have covered so far...
+
+<br>
+
+## Some recent projects:
+
+- 💎 : [](https://github.com/fac27/AI-Kan)
+
+- 👻 : [](https://github.com/fac27/Haunts-of-the-high-street)
+
+- 📜 : [](https://github.com/fac27/Haiku)
+
+- 🎏 : [](https://github.com/fac27/FACTales)
+
+- 🐶 : [](https://fac27.github.io/Git-a-dog/)
+
+- 🔥 : [](https://github.com/eliazzo/tldraw)
+
+- 📓 Check the start of my journey in this [portfolio](https://github.com/fac29/portfolio) where I made reflections on the modules covered on during the early stages of my training. 
+
+- 👽 All of my other projects are available on my [github](https://github.com/Paing-Ko?tab=repositories)
+
+<br>
 
 ## 💼 Skills
 
@@ -34,23 +63,10 @@ By actively participating in FAC meetups from May 2023, I have embraced the thri
 - ⚽️ A die-hard Liverpool FC fan since 1998.
 - 💻 Built my portfolio website & game for FAC projects using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
 
+<img width="500" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0">
 
-![lucky1](https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0)
+<img width="500" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
 
-![collage](https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b)
-
-
-
-## 🎯 Currently Learning
-
-- Deepening my grasp on JavaScript.
-- Expanding my horizon beyond JavaScript, HTML, and CSS.
-- Engaging in larger, intricate projects.
-- Gearing up for apprenticeship opportunities and a full-time developer role post-FAC.
-
-
-## 🔭 Current Projects 
-- Crafting a personal project about my journey.
 
 
 ## 📞 Let's Connect!
@@ -58,8 +74,19 @@ By actively participating in FAC meetups from May 2023, I have embraced the thri
 Whether it's coding, running, cycling, hiking, or a simple coffee chat, I'm all ears!
 
 
-## 📫 Reach Out:
-- Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
-- Email: paingphyoko.keke@gmail.com
+## 📫  How to reach me:
+> Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
+> [LinkedIn]: (https://www.linkedin.com/in/](https://www.linkedin.com/in/paingphyoko/)
+> [Email]: (paingphyoko.keke@gmail.com)
+
+  
+<br>
+<br>
+
+<div align='center'>
+<h2> 🏆 GitHub Trophies </h2>
+
+![](https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 _Ready to embark on new programming adventures! 🚀_
