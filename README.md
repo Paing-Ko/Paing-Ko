@@ -49,13 +49,13 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 
 ## 🌐 Some recent projects:
 
-- 🖥️ : myWebsite for FAC application:[Doc2Dev](https://github.com/Paing-Ko/myWebsite)
+- 🖥️ : myWebsite for FAC application: [Doc2Dev](https://github.com/Paing-Ko/myWebsite)
 
-- 🎮  : myGame built for FAC application:[Virus Hunt](https://github.com/Paing-Ko/myGame)
+- 🎮  : myGame built for FAC application: [Virus Hunt](https://github.com/Paing-Ko/myGame)
 
-- 🌿 : my first team project:[ecoecho](https://github.com/FAC29A/ecoecho)
+- 🌿 : my first team project: [ecoecho](https://github.com/FAC29A/ecoecho)
 
-- 🐙 : Using asynchronous JavaScript and open API's:[GitFlick](https://github.com/FAC29A/GitFlick)
+- 🐙 : Using asynchronous JavaScript and open API's: [GitFlick](https://github.com/FAC29A/GitFlick)
 
 - 📓 Check the start of my journey in this [portfolio](https://github.com/FAC29A/paing_portfolio) where I made reflections on the modules covered on during the early stages of my training. 
 
