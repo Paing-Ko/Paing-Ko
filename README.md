@@ -3,10 +3,6 @@
 
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
 **Preferred Nicknames: Paing, Pi, π, 3.14** 
-
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
-- Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
-- [Email](mailto:paingphyoko.keke@gmail.com)
   
 ### 🐳 Why career change?
 - See the reason on [myWebsite](https://paing-ko.github.io/myWebsite/).
@@ -44,6 +40,7 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 - 👽 All of my other projects are available on my [github](https://github.com/Paing-Ko?tab=repositories)
 
 
+
 ## 💼 Skills
 
 - CS50x, CS50P, CS50T
@@ -52,6 +49,12 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 - HTML
 - CSS
 - SQL
+
+<div align='center'>
+<h2> 🏆 GitHub Trophies </h2>
+
+![](https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ## 🎉 Fun Facts 
 
@@ -68,15 +71,7 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 
 <img width="375" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
 
-## 📞 Let's Connect!
 
-Whether it's coding, running, cycling, hiking, or a simple coffee chat, I'm all ears!
-
-
-<div align='center'>
-<h2> 🏆 GitHub Trophies </h2>
-
-![](https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-</div>
-
-
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
+- Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
+- [Email](mailto:paingphyoko.keke@gmail.com)
