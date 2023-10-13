@@ -41,17 +41,16 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 - 👽 All of my other projects are available on my [github](https://github.com/Paing-Ko?tab=repositories)
 
 
-
-## 💼 Skills
-<table><tr>
-  <td valign="top" width="50%">
-    <div align="center">  
-      <h4>Languages</h4>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h2  align='center'> 💼 Skills </h2>
+<table align="center"><tr>
+  <td valign="top" width="75%">
+    <div>  
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://ojt.com/wp-content/uploads/2021/08/sql.png" alt="sql" width="40" height="40"/> </a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
     </div>
   </td>
   </tr>
@@ -78,11 +77,11 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 - 🧘‍♂️ Yoga (Completed 100+ hours of training), 🏸 Badminton (Intermediate), and 🏊‍♀️ Swimming.
 - ⚽️ A die-hard Liverpool FC fan since 1998.
 - 💻 Built my portfolio website & game for FAC projects using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
-
+<div align='center'>
 <img width="375" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0">
 
 <img width="375" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
-
+</div>
 
 ## 📫 Connect with me on:
 - Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
