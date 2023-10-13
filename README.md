@@ -1,13 +1,9 @@
-<br>
 <h1 align="center">Hi there 👋</h1>
-<br>
 <h2 align="center">My name is Paing Phyo Ko (He/Him) and I am a Software Developer.</h2>
-<br>
 
 **Preferred Nicknames:** Paing, Pi, π, 3.14 
 
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
-
 
 ## 🚀 About Me:
 
@@ -61,9 +57,9 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 - ⚽️ A die-hard Liverpool FC fan since 1998.
 - 💻 Built my portfolio website & game for FAC projects using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
 
-<img width="500" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0">
+<img width="350" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0">
 
-<img width="500" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
+<img width="350" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
 
 ## 📞 Let's Connect!
 
