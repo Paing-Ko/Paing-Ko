@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">My name is Paing Phyo Ko (He/Him) and I am a Software Developer.</h2>
-
+_Ready to embark on new programming adventures! 🚀_
 **Preferred Nicknames:** Paing, Pi, π, 3.14 
 
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
@@ -68,9 +68,7 @@ Whether it's coding, running, cycling, hiking, or a simple coffee chat, I'm all 
 ## 📫  How to reach me:
 
 > Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
-
 > [LinkedIn]: (https://www.linkedin.com/in/](https://www.linkedin.com/in/paingphyoko/)
-
 > [Email]: (paingphyoko.keke@gmail.com)
 
 
@@ -80,4 +78,4 @@ Whether it's coding, running, cycling, hiking, or a simple coffee chat, I'm all 
 ![](https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
-_Ready to embark on new programming adventures! 🚀_
+
