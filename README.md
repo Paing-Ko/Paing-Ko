@@ -11,9 +11,9 @@
 </div>
 
 <div align='center'>
-<img width="450" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0">
+<img width="400" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0">
 
-<img width="450" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
+<img width="400" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
 </div>
 
 - 💻 Built my portfolio website & game for FAC projects using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
