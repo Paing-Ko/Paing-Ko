@@ -2,7 +2,7 @@
 <h2 align="center">My name is Paing Phyo Ko 🚀 (He/Him).</h2>
 
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
-**Preferred Nicknames Paing, Pi, π, 3.14 :** 
+**Preferred Nicknames: Paing, Pi, π, 3.14** 
 
 ## 🚀 About Me:
 
