@@ -8,9 +8,9 @@
 - See the reason on [myWebsite](https://paing-ko.github.io/myWebsite/).
 - I have completed Harvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python), & [CS50T](https://pll.harvard.edu/course/cs50s-understanding-technology-0) courses, check out on my [YouTube](https://www.youtube.com/@paingpko).
 
-<div align='center'>
-<h2>🚀 About Me:</h2> 
-</div>
+
+## 🚀 About Me:
+
 - 🌱 I’m currently trained as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/) a UK government-funded bootcamp who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
   
 - 🏡 Originally from a small town called Ahtaung(အထောင်) in Myanmar (Burma).
