@@ -4,10 +4,9 @@
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
 **Preferred Nicknames: Paing, Pi, π, 3.14** 
 
-## 📫  How to reach me:
-> Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
-> [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
-> [Email](mailto:paingphyoko.keke@gmail.com)
+### Connect with me on >> [LinkedIn](https://www.linkedin.com/in/paingphyoko/)/
+>> [Email](mailto:paingphyoko.keke@gmail.com)/
+>> Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)/
 
 ## 🚀 About Me:
 
