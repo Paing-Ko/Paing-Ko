@@ -69,8 +69,10 @@ Whether it's coding, running, cycling, hiking, or a simple coffee chat, I'm all 
 ## 📫  How to reach me:
 
 > Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
-> [LinkedIn]: (https://www.linkedin.com/in/](https://www.linkedin.com/in/paingphyoko/)
-> [Email]: (paingphyoko.keke@gmail.com)
+
+> [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
+
+> [Email](paingphyoko.keke@gmail.com)
 
 
 <div align='center'>
