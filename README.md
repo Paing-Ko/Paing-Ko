@@ -3,9 +3,10 @@
 <br>
 <h2 align="center">My name is Paing Phyo Ko (He/Him) and I am a Software Developer.</h2>
 <br>
-**Preferred Nicknames:** Paing, Pi, π, 3.14  
-**How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
 
+**Preferred Nicknames:** Paing, Pi, π, 3.14 
+
+**How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
 
 
 ## 🚀 About Me:
@@ -20,8 +21,6 @@
 After hitting several roadblocks in the initial phase of my self-learning journey, I discovered FAC in 2023.
 
 - 👨🏻‍💻 I am highly collaborative and familiar with Agile practices. The projects listed below demonstrate some of the technical areas I have covered so far...
-
-<br>
 
 ## Some recent projects:
 
@@ -41,7 +40,6 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 
 - 👽 All of my other projects are available on my [github](https://github.com/Paing-Ko?tab=repositories)
 
-<br>
 
 ## 💼 Skills
 
@@ -67,21 +65,18 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 
 <img width="500" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
 
-
-
 ## 📞 Let's Connect!
 
 Whether it's coding, running, cycling, hiking, or a simple coffee chat, I'm all ears!
 
-
 ## 📫  How to reach me:
+
 > Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
+
 > [LinkedIn]: (https://www.linkedin.com/in/](https://www.linkedin.com/in/paingphyoko/)
+
 > [Email]: (paingphyoko.keke@gmail.com)
 
-  
-<br>
-<br>
 
 <div align='center'>
 <h2> 🏆 GitHub Trophies </h2>
