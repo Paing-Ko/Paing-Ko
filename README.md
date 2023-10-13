@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">My name is Paing Phyo Ko 🚀 (He/Him).</h2>
-**Preferred Nicknames:** Paing, Pi, π, 3.14
 
 **How to pronounce my name:** [Click here to listen](https://namedrop.io/paingphyoko)  
+**Preferred Nicknames Paing, Pi, π, 3.14 :** 
 
 ## 🚀 About Me:
 
