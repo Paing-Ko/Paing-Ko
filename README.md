@@ -9,7 +9,7 @@
 - I have completed Harvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python), & [CS50T](https://pll.harvard.edu/course/cs50s-understanding-technology-0) courses, check out on my [YouTube](https://www.youtube.com/@paingpko).
 
 <div align='center'>
-## 🚀 About Me:
+<h2>🚀 About Me:</h2> 
 </div>
 - 🌱 I’m currently trained as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/) a UK government-funded bootcamp who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
   
@@ -22,7 +22,7 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 
 - 👨🏻‍💻 I am highly collaborative and familiar with Agile practices. The projects listed below demonstrate some of the technical areas I have covered so far...
 
-##🌐 Some recent projects:
+## 🌐 Some recent projects:
 
 - 💎 : [](https://github.com/fac27/AI-Kan)
 
@@ -58,7 +58,7 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 </div>
 
 <div align='center'>
-## 🎉 Fun Facts 
+<h2> 🎉 Fun Facts </h2>
 </div>
 
 - ☕ I love coffee, trees, sports, technology, movies (Big fan of The Big Bang Theory), and I have an eye for detail.
