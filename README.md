@@ -11,7 +11,7 @@
 
 ## 🚀 About Me:
 
-- 🌱 I’m currently trained as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/) a UK government-funded bootcamp who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
+- 🌱 I’m currently trained as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/), a UK government-funded bootcamp who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
   
 - 🏡 Originally from a small town called Ahtaung(အထောင်) in Myanmar (Burma).
 
@@ -24,17 +24,13 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 
 ## 🌐 Some recent projects:
 
-- 💎 : [](https://github.com/fac27/AI-Kan)
+- 💎 : [-](https://github.com/fac29)
 
-- 👻 : [](https://github.com/fac27/Haunts-of-the-high-street)
+- 👻 : [-](https://github.com/fac29)
 
-- 📜 : [](https://github.com/fac27/Haiku)
+- 📜 : [-](https://github.com/)
 
-- 🎏 : [](https://github.com/fac27/FACTales)
-
-- 🐶 : [](https://fac27.github.io/Git-a-dog/)
-
-- 🔥 : [](https://github.com/eliazzo/tldraw)
+- 🎏 : [-](https://github.com/)
 
 - 📓 Check the start of my journey in this [portfolio](https://github.com/fac29/portfolio) where I made reflections on the modules covered on during the early stages of my training. 
 
