@@ -6,9 +6,12 @@
 
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
 - Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
-- [YouTube](https://www.youtube.com/@paingpko)
 - [Email](mailto:paingphyoko.keke@gmail.com)
+  
+🐳 [Why career change?](https://paing-ko.github.io/myWebsite/)
+- I have completed HArvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python), & [CS50T](https://pll.harvard.edu/course/cs50s-understanding-technology-0) courses, check out my  [YouTube](https://www.youtube.com/@paingpko).
 
+<a href="https://www.credly.com/badges/65b1ba25-7c08-444d-8581-22a45300ac8a/linked_in_profile">
 ## 🚀 About Me:
 
 - 🌱 I’m currently trained as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/) a UK government-funded bootcamp who provide tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
