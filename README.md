@@ -6,6 +6,25 @@
 </div>
 <br>
 
+<div align='center'>
+<h2> 🎉 Fun Facts </h2>
+</div>
+
+<div align='center'>
+<img width="450" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0">
+
+<img width="450" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
+</div>
+
+- 💻 Built my portfolio website & game for FAC projects using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
+- ☕ I love coffee, trees, sports, technology, movies (Big fan of The Big Bang Theory), and I have an eye for detail.
+- 🚗 I have an obsession with car registration plates.
+- 🏃‍♂️ Running enthusiast (Completed two half marathons, a 10k run, and a fun 5k run).
+- 🏔️ Avid hiker and part of the Universities Of Medicine Myanmar Hiking and Mountaineering Team (Successfully summited five 10,000+ft mountains in Myanmar).
+- 🚴‍♂️ Love cycling, even taught my wife how to ride a bicycle in 2022.
+- 🧘‍♂️ Yoga (Completed 100+ hours of training), 🏸 Badminton (Intermediate), and 🏊‍♀️ Swimming.
+- ⚽️ A die-hard Liverpool FC fan since 1998.
+
 <h2  align="center"> 📚💻 Languages & Tools🛠️: </h2>
 
 <table align="center"><tr>
@@ -34,11 +53,7 @@
 
 <br>
 
-<div align='center'>
-<h2> 🏆 GitHub Trophies </h2>
 
-<img width="1000" src="https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=5">
-</div>
 
 
 <h2  align="center"> 👨🏻‍💻 About Me: </h2>
@@ -73,25 +88,13 @@ After hitting several roadblocks in the initial phase of my self-learning journe
 - 🐱📘 All of my other projects are available on my [github](https://github.com/Paing-Ko?tab=repositories).
 
 
-<div align='center'>
-<h2> 🎉 Fun Facts </h2>
-</div>
-
-- ☕ I love coffee, trees, sports, technology, movies (Big fan of The Big Bang Theory), and I have an eye for detail.
-- 🚗 I have an obsession with car registration plates.
-- 🏃‍♂️ Running enthusiast (Completed two half marathons, a 10k run, and a fun 5k run).
-- 🏔️ Avid hiker and part of the Universities Of Medicine Myanmar Hiking and Mountaineering Team (Successfully summited five 10,000+ft mountains in Myanmar).
-- 🚴‍♂️ Love cycling, even taught my wife how to ride a bicycle in 2022.
-- 🧘‍♂️ Yoga (Completed 100+ hours of training), 🏸 Badminton (Intermediate), and 🏊‍♀️ Swimming.
-- ⚽️ A die-hard Liverpool FC fan since 1998.
-- 💻 Built my portfolio website & game for FAC projects using my MacBook Air(2017), which I won in a lucky draw from my local gym in Myanmar.
-<div align='center'>
-<img width="375" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/e57be919-ef4e-4bb7-b8b5-bdf1112916d0">
-
-<img width="375" src="https://github.com/Paing-Ko/Paing-Ko/assets/75099079/f3749b22-002a-4d3f-a5fb-53c74943d21b">
-</div>
-
 ## 📫 Connect with me on:
 - Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
 - [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
 - [Email](mailto:paingphyoko.keke@gmail.com)
+
+<div align='center'>
+<h2> 🏆 GitHub Trophies </h2>
+
+<img width="1000" src="https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=5">
+</div>
