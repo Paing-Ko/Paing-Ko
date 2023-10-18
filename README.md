@@ -1,6 +1,7 @@
 
 <div align="center"> 
 <h1>Hi there 👋,  My name is Paing Phyo Ko 🚀</h1>
+</div>
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/paingphyoko/">
