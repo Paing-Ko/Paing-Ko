@@ -1,10 +1,33 @@
+
 <div align="center"> 
-<h1>Hi there 👋, My name is Paing Phyo Ko 🚀 (He/Him).</h1>
+<h1>Hi there 👋,  My name is Paing Phyo Ko 🚀</h1>
+
+<div id="badges" align='center'>
+  <a href="https://www.linkedin.com/in/paingphyoko/">
+    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.instagram.com/doc2dev/">
+    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+
+<div align='center'>
+<img src="https://media.giphy.com/media/kELASTS0cctZNu89jV/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/m6LYuQiMVBlUMv9Y4Q/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="200"/>
+</div>
+<div align='center' >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRoZmkwcWEzMjU1bzQyaXNxeWEzMmp4NTA0YnNlOGh5ODEzY2VpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dOT2Aqx1m5jeeO1uvz/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM5b2R3a3RmOXFxNWRqN2pvNGJlc2gyZmllMmFsZ2ppajkzaHppciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nnezv32g3qeR4vyiq5/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRleGh4N3UwNHA0MTc5NnF3NXJuZ292ajV0dmhlZzczanEwYWVhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ilgHWWkaM9n5wdGxGx/giphy.gif" width="200"/>
+</div>
+
   
 **How to pronounce my name:** [Listen here](https://namedrop.io/paingphyoko)  
 **Preferred Nicknames: Paing, Pi, π, 3.14** 
 </div>
 <br>
+
 
 <div align='center'>
 <h2> 🎉 Fun Facts </h2>
@@ -16,13 +39,8 @@
 </div>
 
 - 💻 Built my portfolio website & game for FAC projects using a MacBook Air (2017) that I won in a lucky draw at my local gym in Myanmar.
-- ☕ I love coffee, trees, sports, technology, and movies (big fan of The Big Bang Theory), and I have an eye for detail.
-- 🚗 Obsessed with car registration plates.
-- 🏃‍♂️ A running enthusiast, having completed two half marathons, a 10k run, and a fun 5k run.
-- 🏔️ Avid hiker and a member of the Universities of Medicine Myanmar Hiking and Mountaineering Team. Successfully summited five 10,000+ft mountains in Myanmar.
-- 🚴‍♂️ Love cycling and even taught my wife how to ride a bicycle in 2022.
-- 🧘‍♂️ Yoga: Completed 100+ hours of training. 🏸 Badminton: Intermediate level. 🏊‍♀️ Enjoy swimming.
-- ⚽️ A die-hard Liverpool FC fan since 1998.
+- ☕ I love coffee, nature, sports, technology, and movies (big fan of The Big Bang Theory), and I have an eye for detail.
+
 
 <h2 align="center"> 📚💻 Languages & Tools🛠️: </h2>
 
@@ -78,9 +96,7 @@
 
 - 🐱📘 All of my other projects are available on my [GitHub](https://github.com/Paing-Ko?tab=repositories).
 
-## 📫 Connect with me on:
-- Instagram: [Doc2Dev](https://www.instagram.com/doc2dev/)
-- [LinkedIn](https://www.linkedin.com/in/paingphyoko/)
+## 📫 Let's connect:
 - [Email](mailto:paingphyoko.keke@gmail.com)
 
 <div align='center'>
