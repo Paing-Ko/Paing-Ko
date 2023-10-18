@@ -22,8 +22,9 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRleGh4N3UwNHA0MTc5NnF3NXJuZ292ajV0dmhlZzczanEwYWVhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ilgHWWkaM9n5wdGxGx/giphy.gif" width="200"/>
 </div>
 
+<div align='center'>
+**How to pronounce my name:**  <a href="https://namedrop.io/paingphyoko)" target="_blank" rel="">Listen here </a>
   
-**How to pronounce my name:** <a href="https://namedrop.io/paingphyoko)" target="_blank" rel="">Listen here</a>
 **Preferred Nicknames: Paing, Pi, π, 3.14** 
 </div>
 <br>
