@@ -23,7 +23,7 @@
 </div>
 
   
-**How to pronounce my name:** [Listen here](https://namedrop.io/paingphyoko)  
+**How to pronounce my name:** <a href="https://namedrop.io/paingphyoko)" target="_blank" rel="">Listen here</a>
 **Preferred Nicknames: Paing, Pi, π, 3.14** 
 </div>
 <br>
