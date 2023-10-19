@@ -4,9 +4,9 @@
 </div>
 
 <div id="badges" align='center'>
-  <a href="https://www.linkedin.com/in/paingphyoko/">
+  <a href="https://www.linkedin.com/in/paingphyoko/" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://www.instagram.com/doc2dev/">
+  <a href="https://www.instagram.com/doc2dev/" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -23,9 +23,16 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRleGh4N3UwNHA0MTc5NnF3NXJuZ292ajV0dmhlZzczanEwYWVhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ilgHWWkaM9n5wdGxGx/giphy.gif" width="200"/>
 </div>
 
-<div align='center'>
+
   
-**How to pronounce my name:**  <a href="https://namedrop.io/paingphyoko" target="_blank" rel="">Listen here </a>
+<div align='center'>
+
+**How to pronounce my name:**  <a href="https://namedrop.io/paingphyoko" target="_blank" rel="noopener noreferrer">Listen here </a>
+
+**Preferred Nicknames: Paing, Pi, π, 3.14** 
+</div>
+<br>
+
   
 **Preferred Nicknames: Paing, Pi, π, 3.14** 
 </div>
