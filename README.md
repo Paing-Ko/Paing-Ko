@@ -33,10 +33,6 @@
 </div>
 <br>
 
-  
-**Preferred Nicknames: Paing, Pi, π, 3.14** 
-</div>
-<br>
 
 
 <div align='center'>
