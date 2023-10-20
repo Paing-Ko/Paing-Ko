@@ -50,85 +50,94 @@
 
 <h2 align="center"> 📚💻 Languages & Tools🛠️: </h2>
 
-<div style="width: 100%; text-align: center; overflow: auto;">
+<table align="center" width="100%">
+  <tr>
     <!-- Left Table -->
-    <div style="display: inline-block; width: 45%; vertical-align: top;">
-        <table align="center">
-            <tr>
-                <th colspan="2">Web Development</th>
-            </tr>
-            <tr>
-    <td>Frontend</td>
-    <td>
+    <td valign="top" width="50%">
+      <table>
+        <tr>
+          <th colspan="2">Web Development</th>
+        </tr>
+        <tr>
+          <td>Frontend</td>
+            <td>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
       </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td>Backend</td>
-    <td>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+          <td>Backend</td>
+          <td>
+            <!-- ... icons ... -->
+             <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
       </a>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="45" height="45"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Databases</td>
-    <td>
-      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-        <img src="https://ojt.com/wp-content/uploads/2021/08/sql.png" alt="SQL" width="45" height="45"/>
+          </td>
+        </tr>
+        <tr>
+          <td>Databases</td>
+          <td>
+            <!-- ... icons ... -->
+             <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+        <img src="https://ojt.com/wp-content/uploads/2021/08/sql.png" alt="SQL" width="50" height="50"/>
       </a>
+          </td>
+        </tr>
+      </table>
     </td>
-     </table>
-    </div>
     <!-- Right Table -->
-    <div style="display: inline-block; width: 45%; vertical-align: top;">
-        <table align="center">
-            <tr>
-                <th colspan="2">Others</th>
-            </tr>
-            <tr>
+    <td valign="top" width="50%">
+      <table>
+        <tr>
+          <th colspan="2">Others</th>
+        </tr>
+        <tr>
           <td>Version Control</td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <td>
+            <!-- ... icons ... -->
+             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       </a>
       <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Editors</td>
-    <td>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+          </td>
+        </tr>
+        <tr>
+          <td>Editors</td>
+          <td>
+            <!-- ... icons ... -->
+             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Cloud</td>
-    <td>
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+          </td>
+        </tr>
+        <tr>
+          <td>Cloud</td>
+          <td>
+            <!-- ... icons ... -->
+            <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" height="40" width="40"/>
       </a>
+          </td>
+        </tr>
+      </table>
     </td>
-   </tr>
-        </table>
-    </div>
-</div>
+  </tr>
+</table>
 
 <br>
+
 
 
 <h2 align="center"> 👨🏻‍💻 About Me: </h2>
