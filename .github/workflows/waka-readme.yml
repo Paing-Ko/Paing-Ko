@@ -1,1 +1,18 @@
+name: Waka Readme
 
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight to update stats
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo's README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          README_FILE: 'README.md' # Path to the README file
