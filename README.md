@@ -166,6 +166,25 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paing-Ko&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+
+## Wakatime
 <!--START_SECTION:waka-->
+
+```txt
+From: 26 December 2022 - To: 02 March 2024
+
+Total Time: 420 hrs 11 mins
+
+JavaScript            173 hrs 46 mins █████████░░░░░░░░░░░░░░░░   36.28 %
+TypeScript            82 hrs 3 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Other                 58 hrs 44 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Python                58 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+CSS                   26 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+HTML                  23 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Bash                  11 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Markdown              6 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+```
+
 <!--END_SECTION:waka-->
+
 </div>
