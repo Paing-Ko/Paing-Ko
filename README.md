@@ -158,7 +158,13 @@
 </a>
 
 <div align='center'>
-<h2> 🏆 GitHub Trophies </h2>
 
-<img width="1000" src="https://github-profile-trophy.vercel.app/?username=Paing-Ko&theme=onedark&no-frame=false&no-bg=false&margin-w=5">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Paing-Ko" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paing-Ko&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+[![Paing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paing-Ko)](https://github.com/Paing-Ko/github-readme-stats)
 </div>
