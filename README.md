@@ -166,5 +166,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paing-Ko&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![Paing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paing-Ko)](https://github.com/Paing-Ko/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
