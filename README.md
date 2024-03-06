@@ -169,6 +169,15 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
+
+```txt
+CSS          12 hrs 59 mins  ████████████▒░░░░░░░░░░░░   49.95 %
+HTML         9 hrs 57 mins   █████████▓░░░░░░░░░░░░░░░   38.30 %
+JavaScript   2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Markdown     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
