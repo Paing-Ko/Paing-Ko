@@ -168,7 +168,7 @@
 
 
 ## Wakatime
-<!--START_SECTION:waka-->
+//<!--START_SECTION:waka-->//
 
 ```txt
 From: 12 October 2023 - To: 08 March 2024
@@ -185,6 +185,6 @@ Git Config   53 mins         ░░░░░░░░░░░░░░░░░
 Other        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
-<!--END_SECTION:waka-->
+//<!--END_SECTION:waka-->//
 
 </div>
