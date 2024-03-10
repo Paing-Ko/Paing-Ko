@@ -171,17 +171,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 07 March 2024
+From: 12 October 2023 - To: 08 March 2024
 
-Total Time: 188 hrs 13 mins
+Total Time: 192 hrs 36 mins
 
-JavaScript   76 hrs 58 mins  ██████████▒░░░░░░░░░░░░░░   40.85 %
-CSS          58 hrs 44 mins  ███████▓░░░░░░░░░░░░░░░░░   31.17 %
-HTML         43 hrs 17 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
-Markdown     3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Bash         3 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-JSON         1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Git Config   53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JavaScript   76 hrs 58 mins  ██████████░░░░░░░░░░░░░░░   39.92 %
+CSS          61 hrs 47 mins  ████████░░░░░░░░░░░░░░░░░   32.05 %
+HTML         44 hrs 37 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+Markdown     3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Bash         3 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JSON         1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Git Config   53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Other        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
