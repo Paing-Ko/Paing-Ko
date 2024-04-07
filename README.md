@@ -1,9 +1,13 @@
 
 <div align="center"> 
 <h1>Hi there 👋,  I'm Paing 🚀</h1>
+
 <h3 align="center">From Healthcare to Code: A Doctor Turned Software Developer in London</h3>
+<img width="500" src="/lucky1.jpg" >
 
 </div>
+
+
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/paingphyoko/" rel="noopener noreferrer">
