@@ -1,6 +1,8 @@
 
 <div align="center"> 
-<h1>Hi there 👋,  My name is Paing Phyo Ko 🚀</h1>
+<h1>Hi there 👋,  I'm Paing 🚀</h1>
+<h3 align="center">From Healthcare to Code: A Doctor Turned Software Developer in London</h3>
+
 </div>
 
 <div id="badges" align='center'>
@@ -125,31 +127,21 @@
 
 
 
-<h2 align="center"> 👨🏻‍💻 About Me: </h2>
-
 - 🌱 Currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/), a UK government-funded bootcamp providing tuition-free, peer-led coding bootcamps to help people from all backgrounds get into tech and make a social impact.
   
-- 🏡 Originally from a small town called Ahtaung (အထောင်), Myanmar (Burma).
 
-- 🎓 Graduated from med school in 2012, practiced medicine for five years, and then moved to the UK to join my wife, who works as a medical doctor for the NHS.
-
-- I've always been passionate about problem-solving and creation, inspired by my uncle, an architectural engineer. It's this passion that led me to the world of programming. I began coding out of curiosity during the pandemic. After encountering several roadblocks initially, I discovered FAC in 2023.
-
-## 🐳 Why a career change?
-- Find out the reason on [myWebsite](https://paing-ko.github.io/myWebsite/).
 - Completed Harvard's [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science), [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python), & [CS50T](https://pll.harvard.edu/course/cs50s-understanding-technology-0) courses. Check them out on my [YouTube](https://www.youtube.com/@paingpko).
 
 - 👨🏻‍💻 I am highly collaborative and familiar with Agile practices. Below are some of the projects demonstrating the technical areas I have covered so far...
 
 ## 🌐 Some recent projects:
 
+- 🧑🏻‍💻 latest [project](paingphyoko.co.uk)
 - 🖥️ myWebsite for FAC application: [Doc2Dev](https://github.com/Paing-Ko/myWebsite)
 - 🎮 myGame built for FAC application: [Virus Hunt](https://github.com/Paing-Ko/myGame)
 - 🌿 My first team project: [ecoecho](https://github.com/FAC29A/ecoecho)
 - 🐙 Using asynchronous JavaScript and open APIs: [GitFlick](https://github.com/FAC29A/GitFlick)
 - 📓 The start of my journey is documented in this [portfolio](https://github.com/FAC29A/paing_portfolio), where I reflected on the modules covered during the early stages of my training. 
-
-- 🐱📘 All of my other projects are available on my [GitHub](https://github.com/Paing-Ko?tab=repositories).
 
 ## 📫 Let's connect:
 
@@ -157,34 +149,4 @@
     <img src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png" alt="Gmail logo" width="50" height="30">
 </a>
 
-<div align='center'>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Paing-Ko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paing-Ko&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-## Wakatime
-<!--START_SECTION:waka-->
-
-```txt
-From: 12 October 2023 - To: 08 March 2024
-
-Total Time: 192 hrs 36 mins
-
-JavaScript   76 hrs 58 mins  ██████████░░░░░░░░░░░░░░░   39.92 %
-CSS          61 hrs 47 mins  ████████░░░░░░░░░░░░░░░░░   32.05 %
-HTML         44 hrs 37 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-Markdown     3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Bash         3 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-JSON         1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Git Config   53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-```
-
-<!--END_SECTION:waka-->
-
-</div>
