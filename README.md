@@ -152,5 +152,6 @@
 <a href="mailto:paingphyoko.keke@gmail.com" style="text-decoration: none; vertical-align: top;">
     <img src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png" alt="Gmail logo" width="50" height="30">
 </a>
-
-
+<h2>📊 GitHub Stats:</h2>
+<p> <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Paing-Ko&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact""></p>
+<p><img align="left" src="https://streak-stats.demolab.com/?user=Paing-Ko&mode=weekly&theme=blueberry&hide_border=false""></p>
