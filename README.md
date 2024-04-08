@@ -3,7 +3,8 @@
 <h1>Hi there 👋,  I'm Paing 🚀</h1>
 
 <h3 align="center">From Healthcare to Code: A Doctor Turned Software Developer in London</h3>
-<img width="500" src="/lucky1.jpg" >
+<img width="400" src="/lucky1.jpg" >
+<img width="400" src="/collage.jpeg" >
 
 </div>
 
